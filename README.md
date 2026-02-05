@@ -53,7 +53,8 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Open the Web Platform Installer
 
 <p align="center">
-<img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f304f6e32764b642e706e6715" src="https://github.com/user-attachments/assets/0995ca7e-1288-4a57-bf7f-6bb2ad6ea095" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f56347039346d502e706e6714" src="https://github.com/user-attachments/assets/4156b49e-d1b9-45b9-9878-e8aadd9b35c2" />
 </p>
 
 - Once Web Platform Installer is open, go to the top right of the screen and search for MySQL 5.5
