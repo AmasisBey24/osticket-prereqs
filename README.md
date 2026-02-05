@@ -65,7 +65,8 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Install at the bottom of the screen and it will tell you to create a username and password to complete the installation
 
 <p align="center">
-<img src="https://i.imgur.com/uWAVcRG.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/MQmZfht.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f56347039346d502e706e6716" src="https://github.com/user-attachments/assets/fb35a8f1-5026-4b79-ad75-01601eec05bd" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4d516d5a6668742e706e6717" src="https://github.com/user-attachments/assets/5ba43587-082f-4db3-b044-c667a071eee0" />
 </p>
 
 
