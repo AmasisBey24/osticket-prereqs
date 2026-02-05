@@ -29,8 +29,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 <p>
 <h3>Step 1: Connect to Your Virtual Machine with Remote Desktop</h3>
 
-- If you need help going to your virtual machine, please see my tutorial [here]
-(https://github.com/AmasisBey24/configure-ad/blob/main/README.md)
+- If you need help going to your virtual machine, please see my tutorial [here](https://github.com/AmasisBey24/configure-ad/blob/main/README.md)
 
 <h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
 
