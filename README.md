@@ -65,7 +65,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Install at the bottom of the screen and it will tell you to create a username and password to complete the installation
 
 <p align="center">
-<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f56347039346d502e706e6716" src="https://github.com/user-attachments/assets/fb35a8f1-5026-4b79-ad75-01601eec05bd" />
+<img width="3360" height="2050" alt="68747470733a2f2f692e696d6775722e636f6d2f755741566352472e706e6716 copy" src="https://github.com/user-attachments/assets/fbf9d04f-cc45-4ec3-bec2-f9c72e8bd5f5" />
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4d516d5a6668742e706e6717" src="https://github.com/user-attachments/assets/5ba43587-082f-4db3-b044-c667a071eee0" />
 </p>
 
