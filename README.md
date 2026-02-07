@@ -147,7 +147,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 <p align="center">
-<img src="https://i.imgur.com/ByfN2Fd.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4279664e3246642e706e67 copy" src="https://github.com/user-attachments/assets/d425cac4-f790-4b40-b29f-4280474a2cd7" />
 
 
 
