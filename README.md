@@ -243,9 +243,9 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Allow everyone to only have "Read and execute" permission, then select OK > Apply > OK
 	
  <p align="center">
-<img src="https://i.imgur.com/wucT3UN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f7775635433554e2e706e67 copy" src="https://github.com/user-attachments/assets/cab30ea4-9eb5-437d-9b85-5bb75f0b5dbe" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6350537836564c2e706e67 copy" src="https://github.com/user-attachments/assets/250f9f22-078f-453a-b0ae-24e80cc26541" />
 </p>	
 
 
-🎉Congratulations! You have installed osTicket successfully!🎉 You have completed the first part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
-- Click [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration) to move on to Part 2 of this three-part tutorial series.
+✅Congratz! You have installed osTicket successfully!
