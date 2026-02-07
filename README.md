@@ -192,7 +192,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
   - Password: Password1 
   
 <p align="center">
-<img src="https://i.imgur.com/1GfpPLs.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f31476670504c732e706e67 copy" src="https://github.com/user-attachments/assets/2065b12a-ad09-4792-b114-14beb9c807b9" />
 
 <h3>Step 11: Download and Install HeidiSQL</h3>
 
