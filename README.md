@@ -32,7 +32,7 @@
 
 <h3>Step 2: Install and Enable Internet Information Services (IIS)</h3>
 
-Instructions
+Instructions:
 
 - Click the Start menu (bottom-left corner of the screen) and search for Control Panel.
 
@@ -64,9 +64,21 @@ Expected Result:
 </h3>
 
 - osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-	- Download Web Platform Installer > select Download Anyway > at the top right, select Open File
-	- Follow the prompt to install Web Platform Installer
-	- Open the Web Platform Installer
+	In this step, you will download and install the Web Platform Installer, which will be used to install web-related components for IIS.
+
+Instructions:
+
+- Open a web browser and navigate to the Web Platform Installer download page.
+
+- Select Download, then choose Download Anyway if prompted.
+
+- When the download completes, select Open file from the top-right corner of the browser.
+
+- Follow the on-screen prompts to install the Web Platform Installer.
+
+- Once installation is complete, open the Web Platform Installer.
+
+✔️ You are now ready to install additional web components in the next step.
 
 <p align="center">
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f304f6e32764b642e706e6715" src="https://github.com/user-attachments/assets/0995ca7e-1288-4a57-bf7f-6bb2ad6ea095" />
@@ -101,6 +113,11 @@ Expected Result:
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f7a415046526d552e706e67 copy" src="https://github.com/user-attachments/assets/a5594112-5c86-4390-8664-124218e3cbb7" />
  <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f445569795164742e706e67 copy" src="https://github.com/user-attachments/assets/45fba877-6dab-479e-b2a0-c4f1f3168227" />
 
+Expected Result:
+
+- The Web Platform Installer installs successfully.
+
+- The application opens without errors.
 </p>
 
 
