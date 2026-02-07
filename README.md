@@ -219,13 +219,13 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Finally, click Install Now
 
 <p align="center">
-<img src="https://i.imgur.com/Npqj9Us.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4e70716a3955732e706e67 copy" src="https://github.com/user-attachments/assets/2c7c6d42-0756-4ad8-b0ec-7bc2701dad29" />
 
 
 🎉Congratulations! You have sucessfully installed osTicket adn all of its pre-requisite files!🎉
 
 <p align="center">
-<img src="https://i.imgur.com/F52ypHn.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4635327970486e2e706e67 copy" src="https://github.com/user-attachments/assets/08733cbb-c682-49f1-88ea-3201619a0839" />
 
 <h3>Tips!</h3>
 
