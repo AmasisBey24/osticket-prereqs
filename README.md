@@ -117,7 +117,8 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 <p align="center">
-<img src="https://i.imgur.com/OpBkwwj.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/XNVSNia.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4f70426b77776a2e706e67 copy" src="https://github.com/user-attachments/assets/26a40f52-b4b4-4dc9-8b70-818c17fda9b4" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f584e56534e69612e706e67 copy" src="https://github.com/user-attachments/assets/5f0cbcb8-dc22-4409-9039-cc01ac9bd806" />
 </p>
 
 <h3>Step 6: Enable Extensions in IIS
