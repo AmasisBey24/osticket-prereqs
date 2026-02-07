@@ -30,12 +30,29 @@
 
 - If you need help going to your virtual machine, please see my tutorial [here](https://github.com/AmasisBey24/configure-ad/blob/main/README.md)
 
-<h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
+<h3>Step 2: Install and Enable Internet Information Services (IIS)</h3>
 
-- At the bottom left, search for Control Panel
-- Underneath Programs, select Uninstall a Program
-- On the left side of the screen, select Turn Windows Features On or Off
-- Select Internet Information Services (IIS), and select OK
+Instructions
+
+- Click the Start menu (bottom-left corner of the screen) and search for Control Panel.
+
+- Open Control Panel, then select Programs.
+
+- Click Uninstall a program.
+
+- On the left side of the window, select Turn Windows features on or off.
+
+- When the Windows Features window opens, locate and check Internet Information Services (IIS).
+
+- Click OK and wait for Windows to apply the changes.
+
+Expected Result:
+
+- IIS is successfully installed on the system.
+
+- The installation completes without errors.
+
+✔️ You will verify IIS installation in a later step of the lab.
 
 
 <p align="center">
