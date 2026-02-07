@@ -169,13 +169,14 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Disable Inheritance > Remove all inherited permissions from this object 
 
 <p align="center">
-<img src="https://i.imgur.com/pcFvK9d.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f706346764b39642e706e67 copy" src="https://github.com/user-attachments/assets/fc0c2d55-93e1-441a-a3cb-bfe690a0fd26" />
 
 - Afterwards, select Add > select Principal > type in "everyone" > select Check Names > select OK
 	- Allow everyone full control (check all boxes) > Select apply > OK
 
 <p align="center">
-<img src="https://i.imgur.com/vUlpzTb.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WZrk1F7.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f76556c707a54622e706e67 copy" src="https://github.com/user-attachments/assets/ce95a9fb-2490-4163-9743-dddb39b9e384" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f575a726b3146372e706e67 copy" src="https://github.com/user-attachments/assets/c9c1e66e-18c3-420a-a7b2-9a796baf9e1b" />
 </p>
 
   
