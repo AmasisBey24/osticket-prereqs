@@ -3,7 +3,6 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial series. Part 1 outlines the prerequisites and installation steps for the open-source helpdesk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
