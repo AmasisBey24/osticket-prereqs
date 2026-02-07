@@ -206,7 +206,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Name it “osTicket” and select OK
 
  <p align="center">
-<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f6d44425751356b2e706e67 copy" src="https://github.com/user-attachments/assets/0bf41b88-1715-4854-9008-980627ad1052" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6d44425751356b2e706e67 copy" src="https://github.com/user-attachments/assets/0bf41b88-1715-4854-9008-980627ad1052" />
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f41444a595179422e706e67 copy" src="https://github.com/user-attachments/assets/9a07952a-e8f2-44a0-9d77-b6935620f8c6" />
 </p>
 
