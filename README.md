@@ -160,7 +160,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 <p align="center">
-<img src="https://i.imgur.com/DDTR8CD.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="1274" alt="68747470733a2f2f692e696d6775722e636f6d2f444454523843442e706e67 copy" src="https://github.com/user-attachments/assets/85c9a9ff-6f50-48a5-8e48-4a65b65e7d3b" />
 
 <h3>Step 9: Assign Permissions to ost-config.php</h3>
 
