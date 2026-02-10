@@ -282,4 +282,4 @@ Expected Result:
 </p>	
 
 
-✅ Congratz! You have installed osTicket successfully!
+✅ Congrats! You have installed osTicket successfully!
